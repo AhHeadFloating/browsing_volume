@@ -1,0 +1,183 @@
+2019/07/03-00:11:54.631201 1fc4 RocksDB version: 5.14.2
+2019/07/03-00:11:54.631324 1fc4 Git sha rocksdb_build_git_sha:@5089e121166c46956a8a21c8ef967f1896c239de@
+2019/07/03-00:11:54.631414 1fc4 Compile date Jul  6 2018
+2019/07/03-00:11:54.631442 1fc4 DB SUMMARY
+2019/07/03-00:11:54.631714 1fc4 SST files in D:\sourcdCode\java\browsing_volume\crawl\crawldb dir, Total Num: 0, files: 
+2019/07/03-00:11:54.631761 1fc4 Write Ahead Log file in D:\sourcdCode\java\browsing_volume\crawl\crawldb: 
+2019/07/03-00:11:54.631815 1fc4                         Options.error_if_exists: 0
+2019/07/03-00:11:54.631846 1fc4                       Options.create_if_missing: 1
+2019/07/03-00:11:54.631885 1fc4                         Options.paranoid_checks: 1
+2019/07/03-00:11:54.631914 1fc4                                     Options.env: 0000000000A1F7B0
+2019/07/03-00:11:54.632270 1fc4                                Options.info_log: 000000001CA2EE80
+2019/07/03-00:11:54.632290 1fc4                Options.max_file_opening_threads: 16
+2019/07/03-00:11:54.632296 1fc4                              Options.statistics: 0000000000000000
+2019/07/03-00:11:54.632303 1fc4                               Options.use_fsync: 0
+2019/07/03-00:11:54.632309 1fc4                       Options.max_log_file_size: 0
+2019/07/03-00:11:54.632316 1fc4                  Options.max_manifest_file_size: 18446744073709551615
+2019/07/03-00:11:54.632323 1fc4                   Options.log_file_time_to_roll: 0
+2019/07/03-00:11:54.632329 1fc4                       Options.keep_log_file_num: 1000
+2019/07/03-00:11:54.632336 1fc4                    Options.recycle_log_file_num: 0
+2019/07/03-00:11:54.632342 1fc4                         Options.allow_fallocate: 1
+2019/07/03-00:11:54.632349 1fc4                        Options.allow_mmap_reads: 0
+2019/07/03-00:11:54.632355 1fc4                       Options.allow_mmap_writes: 0
+2019/07/03-00:11:54.632361 1fc4                        Options.use_direct_reads: 0
+2019/07/03-00:11:54.632368 1fc4                        Options.use_direct_io_for_flush_and_compaction: 0
+2019/07/03-00:11:54.632374 1fc4          Options.create_missing_column_families: 0
+2019/07/03-00:11:54.632380 1fc4                              Options.db_log_dir: 
+2019/07/03-00:11:54.632387 1fc4                                 Options.wal_dir: D:\sourcdCode\java\browsing_volume\crawl\crawldb
+2019/07/03-00:11:54.632394 1fc4                Options.table_cache_numshardbits: 6
+2019/07/03-00:11:54.632400 1fc4                      Options.max_subcompactions: 1
+2019/07/03-00:11:54.632406 1fc4                  Options.max_background_flushes: -1
+2019/07/03-00:11:54.632417 1fc4                         Options.WAL_ttl_seconds: 0
+2019/07/03-00:11:54.632428 1fc4                       Options.WAL_size_limit_MB: 0
+2019/07/03-00:11:54.632435 1fc4             Options.manifest_preallocation_size: 4194304
+2019/07/03-00:11:54.632441 1fc4                     Options.is_fd_close_on_exec: 1
+2019/07/03-00:11:54.632448 1fc4                   Options.advise_random_on_open: 1
+2019/07/03-00:11:54.632454 1fc4                    Options.db_write_buffer_size: 0
+2019/07/03-00:11:54.632460 1fc4                    Options.write_buffer_manager: 000000001CA04600
+2019/07/03-00:11:54.632467 1fc4         Options.access_hint_on_compaction_start: 1
+2019/07/03-00:11:54.632473 1fc4  Options.new_table_reader_for_compaction_inputs: 0
+2019/07/03-00:11:54.632479 1fc4           Options.random_access_max_buffer_size: 1048576
+2019/07/03-00:11:54.632485 1fc4                      Options.use_adaptive_mutex: 0
+2019/07/03-00:11:54.632494 1fc4                            Options.rate_limiter: 0000000000000000
+2019/07/03-00:11:54.632505 1fc4     Options.sst_file_manager.rate_bytes_per_sec: 0
+2019/07/03-00:11:54.632513 1fc4                       Options.wal_recovery_mode: 2
+2019/07/03-00:11:54.632520 1fc4                  Options.enable_thread_tracking: 0
+2019/07/03-00:11:54.632528 1fc4                  Options.enable_pipelined_write: 0
+2019/07/03-00:11:54.632536 1fc4         Options.allow_concurrent_memtable_write: 1
+2019/07/03-00:11:54.632545 1fc4      Options.enable_write_thread_adaptive_yield: 1
+2019/07/03-00:11:54.632636 1fc4             Options.write_thread_max_yield_usec: 100
+2019/07/03-00:11:54.632647 1fc4            Options.write_thread_slow_yield_usec: 3
+2019/07/03-00:11:54.632654 1fc4                               Options.row_cache: None
+2019/07/03-00:11:54.632661 1fc4                              Options.wal_filter: None
+2019/07/03-00:11:54.632669 1fc4             Options.avoid_flush_during_recovery: 0
+2019/07/03-00:11:54.632678 1fc4             Options.allow_ingest_behind: 0
+2019/07/03-00:11:54.632689 1fc4             Options.preserve_deletes: 0
+2019/07/03-00:11:54.632701 1fc4             Options.two_write_queues: 0
+2019/07/03-00:11:54.632708 1fc4             Options.manual_wal_flush: 0
+2019/07/03-00:11:54.632716 1fc4             Options.max_background_jobs: 2
+2019/07/03-00:11:54.632724 1fc4             Options.max_background_compactions: -1
+2019/07/03-00:11:54.632741 1fc4             Options.avoid_flush_during_shutdown: 0
+2019/07/03-00:11:54.632759 1fc4           Options.writable_file_max_buffer_size: 1048576
+2019/07/03-00:11:54.632768 1fc4             Options.delayed_write_rate : 16777216
+2019/07/03-00:11:54.632776 1fc4             Options.max_total_wal_size: 0
+2019/07/03-00:11:54.632785 1fc4             Options.delete_obsolete_files_period_micros: 21600000000
+2019/07/03-00:11:54.632793 1fc4                   Options.stats_dump_period_sec: 600
+2019/07/03-00:11:54.632801 1fc4                          Options.max_open_files: -1
+2019/07/03-00:11:54.632809 1fc4                          Options.bytes_per_sync: 0
+2019/07/03-00:11:54.632816 1fc4                      Options.wal_bytes_per_sync: 0
+2019/07/03-00:11:54.632825 1fc4       Options.compaction_readahead_size: 0
+2019/07/03-00:11:54.632835 1fc4 Compression algorithms supported:
+2019/07/03-00:11:54.632843 1fc4 	kZSTD supported: 0
+2019/07/03-00:11:54.632851 1fc4 	kSnappyCompression supported: 0
+2019/07/03-00:11:54.632858 1fc4 	kBZip2Compression supported: 0
+2019/07/03-00:11:54.632865 1fc4 	kZlibCompression supported: 0
+2019/07/03-00:11:54.632873 1fc4 	kLZ4Compression supported: 0
+2019/07/03-00:11:54.632883 1fc4 	kXpressCompression supported: 0
+2019/07/03-00:11:54.632892 1fc4 	kLZ4HCCompression supported: 0
+2019/07/03-00:11:54.632899 1fc4 	kZSTDNotFinalCompression supported: 0
+2019/07/03-00:11:54.632911 1fc4 Fast CRC32 supported: Supported on x86
+2019/07/03-00:11:54.635666 1fc4 [c:\users\aretter\code\rocksdb\db\db_impl_open.cc:222] Creating manifest 1 
+2019/07/03-00:11:54.663454 1fc4 [c:\users\aretter\code\rocksdb\db\version_set.cc:3085] Recovering from manifest file: MANIFEST-000001
+2019/07/03-00:11:54.663763 1fc4 [c:\users\aretter\code\rocksdb\db\column_family.cc:475] --------------- Options for column family [default]:
+2019/07/03-00:11:54.663779 1fc4               Options.comparator: leveldb.BytewiseComparator
+2019/07/03-00:11:54.663787 1fc4           Options.merge_operator: None
+2019/07/03-00:11:54.663796 1fc4        Options.compaction_filter: None
+2019/07/03-00:11:54.663804 1fc4        Options.compaction_filter_factory: None
+2019/07/03-00:11:54.663811 1fc4         Options.memtable_factory: SkipListFactory
+2019/07/03-00:11:54.663819 1fc4            Options.table_factory: BlockBasedTable
+2019/07/03-00:11:54.663869 1fc4            table_factory options:   flush_block_policy_factory: FlushBlockBySizePolicyFactory (000000001CB098C0)
+  cache_index_and_filter_blocks: 0
+  cache_index_and_filter_blocks_with_high_priority: 0
+  pin_l0_filter_and_index_blocks_in_cache: 0
+  index_type: 0
+  hash_index_allow_collision: 1
+  checksum: 1
+  no_block_cache: 0
+  block_cache: 000000001CA03700
+  block_cache_name: LRUCache
+  block_cache_options:
+    capacity : 8388608
+    num_shard_bits : 4
+    strict_capacity_limit : 0
+    high_pri_pool_ratio: 0.000
+  block_cache_compressed: 0000000000000000
+  persistent_cache: 0000000000000000
+  block_size: 4096
+  block_size_deviation: 10
+  block_restart_interval: 16
+  index_block_restart_interval: 1
+  metadata_block_size: 4096
+  partition_filters: 0
+  use_delta_encoding: 1
+  filter_policy: nullptr
+  whole_key_filtering: 1
+  verify_compression: 0
+  read_amp_bytes_per_bit: 0
+  format_version: 2
+  enable_index_compression: 1
+  block_align: 0
+2019/07/03-00:11:54.663950 1fc4        Options.write_buffer_size: 67108864
+2019/07/03-00:11:54.663961 1fc4  Options.max_write_buffer_number: 2
+2019/07/03-00:11:54.663970 1fc4          Options.compression: NoCompression
+2019/07/03-00:11:54.663977 1fc4                  Options.bottommost_compression: Disabled
+2019/07/03-00:11:54.663985 1fc4       Options.prefix_extractor: nullptr
+2019/07/03-00:11:54.663992 1fc4   Options.memtable_insert_with_hint_prefix_extractor: nullptr
+2019/07/03-00:11:54.664014 1fc4             Options.num_levels: 7
+2019/07/03-00:11:54.664038 1fc4        Options.min_write_buffer_number_to_merge: 1
+2019/07/03-00:11:54.664061 1fc4     Options.max_write_buffer_number_to_maintain: 0
+2019/07/03-00:11:54.664077 1fc4            Options.compression_opts.window_bits: -14
+2019/07/03-00:11:54.664094 1fc4                  Options.compression_opts.level: -1
+2019/07/03-00:11:54.664103 1fc4               Options.compression_opts.strategy: 0
+2019/07/03-00:11:54.664110 1fc4         Options.compression_opts.max_dict_bytes: 0
+2019/07/03-00:11:54.664118 1fc4         Options.compression_opts.zstd_max_train_bytes: 0
+2019/07/03-00:11:54.664126 1fc4      Options.level0_file_num_compaction_trigger: 4
+2019/07/03-00:11:54.664134 1fc4          Options.level0_slowdown_writes_trigger: 20
+2019/07/03-00:11:54.664143 1fc4              Options.level0_stop_writes_trigger: 36
+2019/07/03-00:11:54.664150 1fc4                   Options.target_file_size_base: 67108864
+2019/07/03-00:11:54.664159 1fc4             Options.target_file_size_multiplier: 1
+2019/07/03-00:11:54.664166 1fc4                Options.max_bytes_for_level_base: 268435456
+2019/07/03-00:11:54.664174 1fc4 Options.level_compaction_dynamic_level_bytes: 0
+2019/07/03-00:11:54.664181 1fc4          Options.max_bytes_for_level_multiplier: 10.000000
+2019/07/03-00:11:54.664192 1fc4 Options.max_bytes_for_level_multiplier_addtl[0]: 1
+2019/07/03-00:11:54.664199 1fc4 Options.max_bytes_for_level_multiplier_addtl[1]: 1
+2019/07/03-00:11:54.664208 1fc4 Options.max_bytes_for_level_multiplier_addtl[2]: 1
+2019/07/03-00:11:54.664216 1fc4 Options.max_bytes_for_level_multiplier_addtl[3]: 1
+2019/07/03-00:11:54.664227 1fc4 Options.max_bytes_for_level_multiplier_addtl[4]: 1
+2019/07/03-00:11:54.664235 1fc4 Options.max_bytes_for_level_multiplier_addtl[5]: 1
+2019/07/03-00:11:54.664242 1fc4 Options.max_bytes_for_level_multiplier_addtl[6]: 1
+2019/07/03-00:11:54.664250 1fc4       Options.max_sequential_skip_in_iterations: 8
+2019/07/03-00:11:54.664258 1fc4                    Options.max_compaction_bytes: 1677721600
+2019/07/03-00:11:54.664266 1fc4                        Options.arena_block_size: 8388608
+2019/07/03-00:11:54.664274 1fc4   Options.soft_pending_compaction_bytes_limit: 68719476736
+2019/07/03-00:11:54.664282 1fc4   Options.hard_pending_compaction_bytes_limit: 274877906944
+2019/07/03-00:11:54.664290 1fc4       Options.rate_limit_delay_max_milliseconds: 100
+2019/07/03-00:11:54.664297 1fc4                Options.disable_auto_compactions: 0
+2019/07/03-00:11:54.664307 1fc4                        Options.compaction_style: kCompactionStyleLevel
+2019/07/03-00:11:54.664315 1fc4                          Options.compaction_pri: kByCompensatedSize
+2019/07/03-00:11:54.664323 1fc4 Options.compaction_options_universal.size_ratio: 1
+2019/07/03-00:11:54.664331 1fc4 Options.compaction_options_universal.min_merge_width: 2
+2019/07/03-00:11:54.664339 1fc4 Options.compaction_options_universal.max_merge_width: 4294967295
+2019/07/03-00:11:54.664347 1fc4 Options.compaction_options_universal.max_size_amplification_percent: 200
+2019/07/03-00:11:54.664356 1fc4 Options.compaction_options_universal.compression_size_percent: -1
+2019/07/03-00:11:54.664364 1fc4 Options.compaction_options_universal.stop_style: kCompactionStopStyleTotalSize
+2019/07/03-00:11:54.664375 1fc4 Options.compaction_options_fifo.max_table_files_size: 1073741824
+2019/07/03-00:11:54.664394 1fc4 Options.compaction_options_fifo.allow_compaction: 0
+2019/07/03-00:11:54.664422 1fc4 Options.compaction_options_fifo.ttl: 0
+2019/07/03-00:11:54.664447 1fc4                   Options.table_properties_collectors: 
+2019/07/03-00:11:54.664455 1fc4                   Options.inplace_update_support: 0
+2019/07/03-00:11:54.664463 1fc4                 Options.inplace_update_num_locks: 10000
+2019/07/03-00:11:54.664471 1fc4               Options.memtable_prefix_bloom_size_ratio: 0.000000
+2019/07/03-00:11:54.664479 1fc4   Options.memtable_huge_page_size: 0
+2019/07/03-00:11:54.664487 1fc4                           Options.bloom_locality: 0
+2019/07/03-00:11:54.664494 1fc4                    Options.max_successive_merges: 0
+2019/07/03-00:11:54.664502 1fc4                Options.optimize_filters_for_hits: 0
+2019/07/03-00:11:54.664510 1fc4                Options.paranoid_file_checks: 0
+2019/07/03-00:11:54.664518 1fc4                Options.force_consistency_checks: 0
+2019/07/03-00:11:54.664526 1fc4                Options.report_bg_io_stats: 0
+2019/07/03-00:11:54.664534 1fc4                               Options.ttl: 0
+2019/07/03-00:11:54.669017 1fc4 [c:\users\aretter\code\rocksdb\db\version_set.cc:3361] Recovered from manifest file:D:\sourcdCode\java\browsing_volume\crawl\crawldb/MANIFEST-000001 succeeded,manifest_file_number is 1, next_file_number is 3, last_sequence is 0, log_number is 0,prev_log_number is 0,max_column_family is 0,min_log_number_to_keep is 0
+2019/07/03-00:11:54.669049 1fc4 [c:\users\aretter\code\rocksdb\db\version_set.cc:3369] Column family [default] (ID 0), log number is 0
+2019/07/03-00:11:54.696295 1fc4 [c:\users\aretter\code\rocksdb\db\db_impl_open.cc:1219] DB pointer 0000000022A757A0
+2019/07/03-00:11:54.696607 1fc4 [c:\users\aretter\code\rocksdb\db\db_impl.cc:252] Shutdown: canceling all background work
+2019/07/03-00:11:54.699186 1fc4 [c:\users\aretter\code\rocksdb\db\db_impl.cc:398] Shutdown complete
