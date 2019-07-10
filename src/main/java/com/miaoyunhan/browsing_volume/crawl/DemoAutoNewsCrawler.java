@@ -18,12 +18,7 @@ public class DemoAutoNewsCrawler extends BreadthCrawler {
             this.addSeed(seedUrl);
         }*/
 
-        /*fetch url like "https://blog.github.com/2018-07-13-graphql-for-octokit/" */
         this.addRegex("https://blog.csdn.net/bin2277904333/article/details/.*");
-        /*do not fetch jpg|png|gif*/
-        //this.addRegex("-.*\\.(jpg|png|gif).*");
-        /*do not fetch url contains #*/
-        //this.addRegex("-.*#.*");
 
         setThreads(10);
         getConf().setTopN(100);
